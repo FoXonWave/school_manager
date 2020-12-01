@@ -1,2 +1,2 @@
 # School Manager
-Repo for School Manager web app
+Repo for School Manager, contains Web Client and API Server
